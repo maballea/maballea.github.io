@@ -1,0 +1,7 @@
+#skills img {
+    transition: transform 0.3s ease;
+}
+
+#skills img:hover {
+    transform: scale(1.1);
+}
